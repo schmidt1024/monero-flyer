@@ -1,0 +1,88 @@
+{
+    "pdf": {
+        "page1": {
+            "why_monero_title": "KIAL MONERO (XMR)",
+            "features": {
+                "private": "PRIVATA Transakcioj estas tute privataj, sen publika transakcia historio",
+                "low_fees": "MALALTAJ KOTIZOJ Etaj transakciaj kotizoj, do ĝi estas utila por malgrandaj pagoj",
+                "secure": "SEKURA: Forta kriptografio certigas, ke viaj financoj kaj datenoj estas sekuraj",
+                "unblockable": "NEBLOKEBLA Ĉiu monero samvaloras, sen ia registro de 'makulo' aŭ aparteno al nigra listo",
+                "distributed": "DISA Neniu centra aŭtoritato kontrolas la reton, kio donas veran financan liberecon"
+            },
+            "slogan1": "SAĜTELEFONO + MONUJO = VI HAVAS MONERON",
+            "slogan2": "SEKURA PRIVATA VIA",
+            "slogan3": "LA VERA MONO",
+            "slogan4": "UZU MONERON",
+            "slogan5": "AKIRU FINANCAN LIBERECON",
+            "website": "www.usexmr.com"
+        },
+        "page2": {
+            "change_fiat_title": "KONVERTI $USD EN MONEROJN",
+            "steps": {
+                "step1": "1-A PAŜO: Elŝutu Cake Wallet aŭ la Monero.com-monujon",
+                "step2": "2-A PAŜO: Kreu vian monujon kaj zorge registru la seman frazon ricevitan. Konservu ĝin sekure en privata, sekura loko!",
+                "step3": "3-A PAŜO: Malfermu la monujon, iru al la 'Exchange'-sekcio kaj enigu la monan kvanton, kiun vi volas konverti en Moneron (XMR). Elektu vian preferatan pagrimedon (kiel kreditkarton, bankan transigon, SEPA, ktp.) kaj sekvu la paŝojn"
+            },
+            "slogan1": "PAGOJ ESTAS SEKURAJ KAJ NEŜANĜEBLAJ!",
+            "advantages_title": "AVANTAĜOJ POR VI KIEL UZANTO",
+            "advantages": {
+                "privacy": "Privateco: Ĉiu pago estas implicite privata. Vi pagas per Monero same kiel vi pagas per kontanta mono!",
+                "low_fees": "Malaltaj kotizoj: Etaj transakciaj kotizoj, eĉ por grandaj kvantoj!",
+                "no_chargebacks": "Nenia returno: Kiam Monero-transakcio estas konfirmita en la blokĉeno, ĝi ne povas esti malfarita."
+            },
+            "slogan2": "FARU LA UNUAN PAŜON HODIAŬ!",
+            "call_to_action1": "Prenu la kontrolon de via financa estonteco hodiaŭ per Monero!",
+            "call_to_action2": "Per Monero vi ne povas esti blokita, vi povas sendi monon ĉien en al mondo preskaŭ senkoste kaj neniu povas vidi tion!",
+            "call_to_action3": "Nun estas la momento por agi!",
+            "website": "www.usexmr.com"
+        }
+    },
+    "website": {
+        "page_language": "Esperanto",
+        "page_title": "Uzu Moneron - Akiru financan liberecon",
+        "page_description": "Monero estas sekura, privata kaj nespurebla ĉifrovaluto.",
+        "page_keywords": "Monero, ĉifrovaluto, cifereca mono, sekuraj transakcioj, financa libereco, privateca, malaltaj kotizoj, nespurebla, anstataŭigebla, malcentra",
+        "title": "Uzu<br />Moneron",
+        "subtitle": "<span class=\"monero-orange\">Akiru</span><br />Financan<br />Liberecon",
+        "download-light-pdf": "Elŝuti helan PDF",
+        "download-dark-pdf": "Elŝuti malhelan PDF",
+        "title-advantages": "<small>Avantaĝoj</small><br />por <span class=\"monero-orange\">vi</span> kiel uzanto",
+        "advantage-privacy": "<strong>Privateco</strong>: ĉiu pago estas implicite privata. Vi pagas per Monero same kiel vi pagas per kontanta mono!",
+        "advantage-low-fees": "<strong>Malaltaj kotizoj</strong>: etaj transakciaj kotizoj, eĉ por grandaj kvantoj!",
+        "advantage-no-chargebacks": "<strong>Nenia returo</strong>: kiam Monero-transakcio estas konfirmita en la blokĉeno, <strong><u>ĝi ne povas esti malfarita</u></strong>.",
+        "fiat-into-monero-title": "Konverti $USD en <span class=\"monero-orange\">Moneron</span>",
+        "fiat-into-monero-step1": "<h3>1-a paŝo:</h3><p>Elŝutu <a href=\"https://cakewallet.com/\" target=\"_blank\"><strong class=\"monero-orange\">Cake Wallet</strong></a> aŭ la <a href=\"https://monero.com/\" target=\"_blank\">Monero.com</a>-monujon.</p>",
+        "fiat-into-monero-step2": "<h3>2-a paŝo:</h3><p>Kreu vian monujon kaj zorge registru la seman frazon ricevitan. Konservu ĝin sekure en privata, sekura loko!</p>",
+        "fiat-into-monero-step3": "<h3>3-a paŝo:</h3><p>Malfermu la monujon, iru al la “<strong>Exchange</strong>”-sekcio kaj enigu la monan kvanton, kiun vi volas konverti en <strong>Moneron</strong> (<span class=\"monero-orange\">XMR</span>).</p><p>Elektu vian preferatan pagrimedon (kiel <strong>kreditkarton</strong>, <strong>bankan transigon</strong>, <strong>SEPA</strong>, ktp.) kaj sekvu la paŝojn.</p>",
+        "fiat-into-monero-conclusion": "Pagoj estas <span class=\"monero-orange\">sekuraj</span> kaj <span class=\"monero-orange\">neŝanĝeblaj</span>!",
+        "where-to-use-monero-title": "Kie uzi <span class=\"monero-orange\">Moneron</span>",
+        "market-xmrbazaar": "<a href=\"https://xmrbazaar.com\" target=\"_blank\"><strong class=\"monero-orange\">XmrBazaar</strong></a>: samtavola bazaro",
+        "market-monerica": "<a href=\"https://monerica.com\" target=\"_blank\"><strong class=\"monero-orange\">Monerica</strong></a>: katalogo por Monera cirkla ekonomio",
+        "market-map": "<a href=\"https://bank-exit.org/en/map/2/2.896282656813092/-10.1953125?coins%5B%5D=monero\" target=\"_blank\"><strong class=\"monero-orange\">XMR Map</strong></a>: mapo de Monero-amikaj entreprenoj",
+        "market-kycnotme": "<a href=\"https://kycnot.me/?currency-mode=or&currencies=xmr\" target=\"_blank\"><strong class=\"monero-orange\">KYCnot.me</strong></a>: listo de Monero-amikaj servoj sen identigo de klientoj",
+        "where-to-use-monero-conclusion": "Uzu <span class=\"monero-orange\">Moneron</span> ĉie ajn, preskaŭ senkoste kaj neniu povas vidi tion!",
+        "monero-into-fiat-title": "Konverti <span class=\"monero-orange\">Moneron</span> en $USD",
+        "sort-by": "Ordigi laŭ",
+        "sort-by-comfort": "Komforto",
+        "sort-by-best-privacy": "Plej forta privateco",
+        "atomic-swaps": "Atomaj interŝanĝoj",
+        "centralized-exchanges": "Centraj interŝanĝejoj",
+        "decentralized-exchanges": "Malcentraj interŝanĝejoj",
+        "no-kyc-services": "Servoj sen identigo de klientoj",
+        "kyc-light": "Malforta identigo de klientoj",
+        "glossary": "Glosaro",
+        "glossary-term-kyc": "Identigo de klientoj",
+        "glossary-desc-kyc": "Identigo de klientoj signifas identigon de klientoj fare de entreprenoj por observi ilin",
+        "glossary-term-no-kyc": "Sen identigo de klientoj",
+        "glossary-desc-no-kyc": "Sen identigo de klientoj signifas mankon de identigo de klientoj fare de entreprenoj",
+        "glossary-term-kyc-light": "Malforta identigo de klientoj",
+        "glossary-desc-kyc-light": "Malforta identigo de klientoj signifas mankon de aldona identigo de klientoj fare de entreprenoj",
+        "glossary-term-fiat": "Fidata mono",
+        "glossary-desc-fiat": "Fidata valuto, kiel eŭro, usona dolaro, svisa franko, ktp.",
+        "glossary-term-cex": "Centra interŝanĝejo",
+        "glossary-desc-cex": "Interŝanĝejo administrata de entrepreno kie klientoj devas konfirmi siajn identecojn",
+        "glossary-term-dex": "Malcentra interŝanĝejo",
+        "glossary-desc-dex": "Interŝanĝejo administrata de reto de uzantoj kie klientoj ne devas konfirmi siajn identecojn",
+        "copyright": "Komunuma projekto de Monero<br />Sendependa, nekomerca projekto de kaj por la Monero-komunumo."
+    }
+}
