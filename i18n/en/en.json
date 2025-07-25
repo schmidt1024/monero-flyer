@@ -21,7 +21,7 @@
             "steps": {
                 "step1": "STEP 1: Download Cake Wallet or Monero.com wallet",
                 "step2": "STEP 2: Create Your wallet and carefully record the seed phrase provided. Store it securely in a private, safe place!",
-                "step3": "STEP 3: Open the wallet, navigate to the 'Exchange' section, and enter the amount of money you wish to convert into Monero (XMR). Choose your preferred payment method (such as Credit Card, Bank Transfer, SEPA, etc.) follow the steps"
+                "step3": "STEP 3: Open the wallet, navigate to the 'Exchange' section, and enter the amount of money you wish to convert into Monero (XMR). Choose your preferred payment method (such as Credit Card, Bank Transfer, SEPA, etc.) and follow the steps"
             },
             "slogan1": "PAYMENTS ARE SECURE AND IMMUTABLE!",
             "advantages_title": "ADVANTAGES FOR YOU AS USER",
@@ -53,7 +53,7 @@
         "fiat-into-monero-title": "Change $USD into <span class=\"monero-orange\">Monero</span>",
         "fiat-into-monero-step1": "<h3>Step 1:</h3><p>Download <a href=\"https://cakewallet.com/\" target=\"_blank\"><strong class=\"monero-orange\">Cake Wallet</strong></a> or <a href=\"https://monero.com/\" target=\"_blank\">Monero.com</a> wallet.</p>",
         "fiat-into-monero-step2": "<h3>Step 2:</h3><p>Create Your wallet and carefully record the seed phrase provided. Store it securely in a private, safe place!</p>",
-        "fiat-into-monero-step3": "<h3>Step 3:</h3><p>Open the wallet, navigate to the “<strong>Exchange</strong>” section, and enter the amount of money you wish to convert into <strong>Monero</strong> (<span class=\"monero-orange\">XMR</span>).</p><p>Choose your preferred payment method (such as <strong>Credit Card</strong>, <strong>Bank Transfer</strong>, <strong>SEPA</strong>, etc.) follow the steps.</p>",
+        "fiat-into-monero-step3": "<h3>Step 3:</h3><p>Open the wallet, navigate to the “<strong>Exchange</strong>” section, and enter the amount of money you wish to convert into <strong>Monero</strong> (<span class=\"monero-orange\">XMR</span>).</p><p>Choose your preferred payment method (such as <strong>Credit Card</strong>, <strong>Bank Transfer</strong>, <strong>SEPA</strong>, etc.) and follow the steps.</p>",
         "fiat-into-monero-conclusion": "Payments are <span class=\"monero-orange\">secure</span> and <span class=\"monero-orange\">immutable</span>!",
         "where-to-use-monero-title": "Where to use <span class=\"monero-orange\">Monero</span>",
         "market-xmrbazaar": "<a href=\"https://xmrbazaar.com\" target=\"_blank\"><strong class=\"monero-orange\">XmrBazaar</strong></a> - a peer-to-peer Monero marketplace",
